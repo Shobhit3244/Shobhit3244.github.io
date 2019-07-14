@@ -4370,7 +4370,7 @@ body {
 .cid-rvUrhF91P5 {
   padding-top: 135px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1413.jpg");
 }
 .cid-rvUrhF91P5 h2 {
   text-align: left;
@@ -4428,6 +4428,12 @@ body {
   .cid-rvUrhF91P5 .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rvUrhF91P5 .mbr-text {
+  color: #ffffff;
+}
+.cid-rvUrhF91P5 P {
+  color: #ffffff;
 }
 .cid-rvUrj2EgYE {
   padding-top: 90px;
@@ -4490,6 +4496,12 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rvUrj2EgYE P {
+  color: #ffffff;
+}
+.cid-rvUrj2EgYE H4 {
+  color: #efefef;
+}
 .cid-rvUGzm0rsO {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -4497,62 +4509,6 @@ body {
 }
 .cid-rvUGzm0rsO P {
   color: #767676;
-}
-.cid-rvUCISBGSr {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-rvUCISBGSr .media-container-column {
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-rvUCISBGSr .mbr-author-desc {
-  display: block;
-}
-.cid-rvUCISBGSr .mbr-testimonial {
-  flex-basis: auto;
-  margin-top: 5rem;
-  -webkit-flex-basis: auto;
-}
-.cid-rvUCISBGSr .mbr-testimonial .panel-item {
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, transparent);
-}
-.cid-rvUCISBGSr .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2rem;
-}
-.cid-rvUCISBGSr .mbr-testimonial .card-block .testimonial-photo {
-  margin-top: -5rem;
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-rvUCISBGSr .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rvUCISBGSr .mbr-testimonial .card-block p {
-  margin: 0;
-}
-.cid-rvUCISBGSr .mbr-testimonial .card-footer {
-  padding: 0 2rem 2rem 2rem;
-  border-top: 0;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 260px) {
-  .cid-rvUCISBGSr .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
 }
 .cid-rvUdjpNA7L {
   padding-top: 30px;
