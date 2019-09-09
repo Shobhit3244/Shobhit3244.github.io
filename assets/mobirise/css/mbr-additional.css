@@ -1800,17 +1800,20 @@ body {
 .cid-rvTG8pBcR0 P {
   text-align: center;
 }
-.cid-rvTVejJZV7 {
+.cid-rBxXhF72ZM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+  background-image: url("../../../assets/images/mbr-1-1920x1181.jpeg");
 }
-.cid-rvTVejJZV7 .mbr-iconfont-social {
+.cid-rBxXhF72ZM .mbr-iconfont-social {
   font-size: 32px;
   color: #ff3366;
 }
-.cid-rvTVejJZV7 .social-list a:focus {
+.cid-rBxXhF72ZM .social-list a:focus {
   text-decoration: none;
+}
+.cid-rBxXhF72ZM H2 {
+  color: #232323;
 }
 .cid-rvUkI9GdPp {
   padding-top: 90px;
